@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehuyuiri.github.io/Ksn/sitemap_index.txt
+Sitemap: https://ehuyuiri.github.io/QLt/sitemap_index.txt
+Sitemap: https://ehuyuiri.github.io/XtT/sitemap_index.txt
+Sitemap: https://ehuyuiri.github.io/coU/sitemap_index.txt
